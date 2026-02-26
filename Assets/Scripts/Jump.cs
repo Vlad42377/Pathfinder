@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Jump : MonoBehaviour
 {
-    [SerializeField] private Transform t;
+    [SerializeField] private Transform afhuahfuaufhauhfafuaf;
 
     void Update()
     {
