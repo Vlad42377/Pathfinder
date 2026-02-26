@@ -10,4 +10,9 @@ public class Jump : MonoBehaviour
     {
         Debug.Log("Jump");
     }
+
+    private void Start()
+    {
+        
+    }
 }
